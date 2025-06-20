@@ -1,4 +1,4 @@
-# Comprehensive list of existing datasets for medical concept normalization (MCN)
+# A comprehensive list of existing datasets for medical concept normalization (MCN)
 
 ## Overview of the datasets
 
