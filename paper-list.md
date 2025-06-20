@@ -3,9 +3,9 @@
 ## Papers being included in the survey 
 
 ### 2025
-- xxxxxxx
+1. xxxxxxx
 
-- xxxxxxx
+2. xxxxxxx
 
 ### 2024
 - xxxxxxx
