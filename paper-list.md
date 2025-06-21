@@ -18,20 +18,49 @@
 13. Wang, G. (2025). OntolinkX: a context-aware linking approach integrating SapBERT and a cross-encoder reranker with hard negative training scenario for enhancing biomedical entity linking task (Doctoral dissertation, University of Glasgow).
 
 ### 2024
-- xxxxxxx
+1. xxxxxxx
 
-- xxxxxxx
+2. xxxxxxx
 
 ### 2023
-- xxxxxxx
+1. xxxxxxx
 
-- xxxxxxx
+2. xxxxxxx
 
-### 2024
-- xxxxxxx
+### 2022
+1. xxxxxxx
 
-- xxxxxxx
+2. xxxxxxx
 
+### 2021
+1. xxxxxxx
+
+2. xxxxxxx
+
+### 2020
+1. xxxxxxx
+
+2. xxxxxxx
+
+### 2019
+1. xxxxxxx
+
+2. xxxxxxx
+
+### 2018
+1. xxxxxxx
+
+2. xxxxxxx
+
+### 2017
+1. xxxxxxx
+
+2. xxxxxxx
+
+### 2016
+1. xxxxxxx
+
+2. xxxxxxx
 
 
 ## Papers not being included in the survey but might be useful 
