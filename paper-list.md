@@ -15,7 +15,8 @@
 10. Gallego, F., Ruas, P., Couto, F. M., & Veredas, F. J. (2025). Enhancing cross-encoders using knowledge graph hierarchy for medical entity linking in zero-and few-shot scenarios. Knowledge-Based Systems, 314, 113211.
 11. Sakor, A., Singh, K., & Vidal, M. E. (2025, March). BioLinkerAI: Leveraging LLMs to Improve Biomedical Entity Linking and Knowledge Capture. In Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining (pp. 1110-1111).
 12. Nentidis, A., Katsimpras, G., Krithara, A., Krallinger, M., Ortega, M. R., Loukachevitch, N., ... & Paliouras, G. (2025, April). BioASQ at CLEF2025: The Thirteenth Edition of the Large-Scale Biomedical Semantic Indexing and Question Answering Challenge. In European Conference on Information Retrieval (pp. 407-415). Cham: Springer Nature Switzerland.
-13. Wang, G. (2025). OntolinkX: a context-aware linking approach integrating SapBERT and a cross-encoder reranker with hard negative training scenario for enhancing biomedical entity linking task (Doctoral dissertation, University of Glasgow).
+13. Dobbins, N. J. (2025). Generalizable and scalable multistage biomedical concept normalization leveraging large language models. Research Synthesis Methods, 16(3), 479–490. 
+14. Wang, G. (2025). OntolinkX: a context-aware linking approach integrating SapBERT and a cross-encoder reranker with hard negative training scenario for enhancing biomedical entity linking task (Doctoral dissertation, University of Glasgow).
 
 ### 2024
 1. xxxxxxx
