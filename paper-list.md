@@ -64,4 +64,11 @@
 
 
 ## Papers not being included in the survey but might be useful 
-- xxxxx
+1. Barreiros, L., Coutinho, I., Correia, G. M., & Martins, B. (2025). Explainable ICD Coding via Entity Linking. arXiv preprint arXiv:2503.20508.
+2. Romero, P., Han, L., & Nenadic, G. (2025, May). Medication Extraction and Entity Linking using Stacked and Voted Ensembles on LLMs. In Proceedings of the Second Workshop on Patient-Oriented Language Processing (CL4Health) (pp. 303-315).
+3. Ai, Y., Ning, Z., Dai, W., Wang, P., Du, Y., Cui, W., ... & Zhou, Y. (2025). Distilling Closed-Source LLM's Knowledge for Locally Stable and Economic Biomedical Entity Linking. arXiv preprint arXiv:2505.19722.
+4. Rouhizadeh, H., Yazdani, A., Zhang, B., Alvarez, D. V., Hüser, M., Vanobberghen, A., ... & Teodoro, D. (2025). Large language models struggle to encode medical concepts—a multilingual benchmarking and comparative analysis. medRxiv, 2025-01.
+5. Nesterov, A., Sakhovskiy, A., Sviridov, I., Valiev, A., Makharev, V., Anokhin, P., ... & Tutubalina, E. (2025). RuCCoD: Towards Automated ICD Coding in Russian. arXiv preprint arXiv:2502.21263.
+6. Kim, J., Lee, N., Kim, J., & Kim, K. (2025). MedRep: Medical Concept Representation for General Electronic Health Record Foundation Models. arXiv preprint arXiv:2504.08329.
+7. Rouhizadeh, H., Yazdani, A., Zhang, B., & Teodoro, D. (2025). Exploring Zero-Shot Cross-Lingual Biomedical Concept Normalization via Large Language Models. medRxiv, 2025-02.
+9. Xu, H., Demner Fushman, D., Hong, N., & Raja, K. (2024). Medical Concept Normalization. In Natural Language Processing in Biomedicine: A Practical Guide (pp. 137-164). Cham: Springer International Publishing.
