@@ -6,7 +6,7 @@
 | ------ | ------ | ------ | ------ | ------ |
 | 1 | NCBI disease corpus | Biomedical literature | English | [Link](https://www.ncbi.nlm.nih.gov/research/bionlp/Data/disease/) |
 | 2 | The QUAERO French Medical Corpus | Biomedical literature | French | [Link](https://quaerofrenchmed.limsi.fr) |
-| 3 | ------ | ------ | ------ | ------ |
+| 3 | Mantra GSC | Medline abstract titles, drug labels, biomedical patent claims | English, French, German, Spanish, and Dutch | [Link](https://files.ifi.uzh.ch/cl/mantra/gsc/GSC-v1.1.zip) |
 | 4 | ------ | ------ | ------ | ------ |
 | 5 | ------ | ------ | ------ | ------ |
 | 6 | ------ | ------ | ------ | ------ |
