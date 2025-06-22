@@ -4,6 +4,7 @@
 
 | Index | Dataset | Domain | Language | URL |
 | ------ | ------ | ------ | ------ | ------ |
+| 1 | NCBI disease corpus | Biomedical | English | [Link](https://www.ncbi.nlm.nih.gov/research/bionlp/Data/disease/) |
 | 2 | ------ | ------ | ------ | ------ |
 | 3 | ------ | ------ | ------ | ------ |
 | 4 | ------ | ------ | ------ | ------ |
