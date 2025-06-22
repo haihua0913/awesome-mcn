@@ -17,9 +17,6 @@
 6. Huang, M. S., Lai, P. T., Lin, P. Y., You, Y. T., Tsai, R. T. H., & Hsu, W. L. (2020). Biomedical named entity recognition and linking datasets: survey and our recent development. Briefings in Bioinformatics, 21(6), 2219-2238.
 - Summary: This paper first reviewed commonlyused biomedical named entity recognition (BNER) datasets and their potential annotation problems such as inconsistency and low portability. Then, it introduced a revised version of the JNLPBA dataset that solves potential problems in the original and use state-of-the-art named entity recognition systems to evaluate its portability to different kinds of biomedical literature, including protein–protein interaction and biology events. Lastly, it introduced an ensembled biomedical entity dataset (EBED) by extending the revised JNLPBA dataset with PubMed Central full-text paragraphs, figure captions and patent abstracts.
 
-7. Luo, Y. F., Sun, W., & Rumshisky, A. (2019). MCN: a comprehensive corpus for medical concept normalization. Journal of biomedical informatics, 92, 103132.
-- Summary: 
-
-8. Madkour, M., Benhaddou, D., & Tao, C. (2016). Temporal data representation, normalization, extraction, and reasoning: A review from clinical domain. Computer methods and programs in biomedicine, 128, 52-68.
+7. Madkour, M., Benhaddou, D., & Tao, C. (2016). Temporal data representation, normalization, extraction, and reasoning: A review from clinical domain. Computer methods and programs in biomedicine, 128, 52-68.
 
 - Summary: 
