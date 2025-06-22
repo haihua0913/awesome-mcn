@@ -2,7 +2,7 @@
 
 ## Overview of the datasets
 
-| Index | Dataset | Domain | Data source | Language | URL |
+| Index | Dataset | Domain | Data Source | Language | URL |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | 1 | NCBI disease corpus | Biomedical corpora | PubMed abstract | English | [Link](https://www.ncbi.nlm.nih.gov/research/bionlp/Data/disease/) |
 | 2 | The QUAERO French Medical Corpus | Biomedical corpora | Biomedical research papers | French | [Link](https://quaerofrenchmed.limsi.fr) |
