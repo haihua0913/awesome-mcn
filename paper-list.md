@@ -156,16 +156,17 @@
 22. Xu, D., Gopale, M., Zhang, J., Brown, K., Begoli, E., & Bethard, S. (2020). Unified Medical Language System resources improve sieve-based generation and Bidirectional Encoder Representations from Transformers (BERT)–based ranking for concept normalization. Journal of the American Medical Informatics Association, 27(10), 1510-1519.
 
 ### 2019
-1. Dirkson, A., Verberne, S., Sarker, A., & Kraaij, W. (2019). Data-driven lexical normalization for medical social media. Multimodal Technologies and Interaction, 3(3), 60.
-2. Niu, J., Yang, Y., Zhang, S., Sun, Z., & Zhang, W. (2019). Multi-task character-level attentional networks for medical concept normalization. Neural Processing Letters, 49, 1239-1256.
-3. Luo, Y. F., Sun, W., & Rumshisky, A. (2019). A hybrid normalization method for medical concepts in clinical narrative using semantic matching. AMIA Summits on Translational Science Proceedings, 2019, 732.
-4. Dirkson, A., Verberne, S., Sarker, A., & Kraaij, W. (2019). Data-driven lexical normalization for medical social media. Multimodal Technologies and Interaction, 3(3), 60.
-5. Zhao, S., Liu, T., Zhao, S., & Wang, F. (2019, July). A neural multi-task learning framework to jointly model medical named entity recognition and normalization. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 817-824).
-6. Tahmasebi, A. M., Zhu, H., Mankovich, G., Prinsen, P., Klassen, P., Pilato, S., ... & Chang, P. (2019). Automatic normalization of anatomical phrases in radiology reports using unsupervised learning. Journal of digital imaging, 32, 6-18.
-7. Tiftikci, M., Özgür, A., He, Y., & Hur, J. (2019). Machine learning-based identification and rule-based normalization of adverse drug reactions in drug labels. BMC bioinformatics, 20, 1-9.
-8. Li, F., Jin, Y., Liu, W., Rawat, B. P. S., Cai, P., & Yu, H. (2019). Fine-tuning bidirectional encoder representations from transformers (BERT)–based models on large-scale electronic health record notes: an empirical study. JMIR medical informatics, 7(3), e14830.
-9. Karadeniz, I., & Özgür, A. (2019). Linking entities through an ontology using word embeddings and syntactic re-ranking. BMC bioinformatics, 20, 1-12.
-10. Wright, D. (2019). NormCo: Deep disease normalization for biomedical knowledge base construction. University of California, San Diego.
+1. Luo, Y. F., Sun, W., & Rumshisky, A. (2019). MCN: a comprehensive corpus for medical concept normalization. Journal of biomedical informatics, 92, 103132.
+2. Dirkson, A., Verberne, S., Sarker, A., & Kraaij, W. (2019). Data-driven lexical normalization for medical social media. Multimodal Technologies and Interaction, 3(3), 60.
+3. Niu, J., Yang, Y., Zhang, S., Sun, Z., & Zhang, W. (2019). Multi-task character-level attentional networks for medical concept normalization. Neural Processing Letters, 49, 1239-1256.
+4. Luo, Y. F., Sun, W., & Rumshisky, A. (2019). A hybrid normalization method for medical concepts in clinical narrative using semantic matching. AMIA Summits on Translational Science Proceedings, 2019, 732.
+5. Dirkson, A., Verberne, S., Sarker, A., & Kraaij, W. (2019). Data-driven lexical normalization for medical social media. Multimodal Technologies and Interaction, 3(3), 60.
+6. Zhao, S., Liu, T., Zhao, S., & Wang, F. (2019, July). A neural multi-task learning framework to jointly model medical named entity recognition and normalization. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 817-824).
+7. Tahmasebi, A. M., Zhu, H., Mankovich, G., Prinsen, P., Klassen, P., Pilato, S., ... & Chang, P. (2019). Automatic normalization of anatomical phrases in radiology reports using unsupervised learning. Journal of digital imaging, 32, 6-18.
+8. Tiftikci, M., Özgür, A., He, Y., & Hur, J. (2019). Machine learning-based identification and rule-based normalization of adverse drug reactions in drug labels. BMC bioinformatics, 20, 1-9.
+9. Li, F., Jin, Y., Liu, W., Rawat, B. P. S., Cai, P., & Yu, H. (2019). Fine-tuning bidirectional encoder representations from transformers (BERT)–based models on large-scale electronic health record notes: an empirical study. JMIR medical informatics, 7(3), e14830.
+10. Karadeniz, I., & Özgür, A. (2019). Linking entities through an ontology using word embeddings and syntactic re-ranking. BMC bioinformatics, 20, 1-12.
+11. Wright, D. (2019). NormCo: Deep disease normalization for biomedical knowledge base construction. University of California, San Diego.
 
 ### 2018
 1. Luo, Y., Song, G., Li, P., & Qi, Z. (2018, April). Multi-task medical concept normalization using multi-view convolutional neural network. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 32, No. 1).
@@ -204,8 +205,7 @@
 4. Sevgili, Ö., Shelmanov, A., Arkhipov, M., Panchenko, A., & Biemann, C. (2022). Neural entity linking: A survey of models based on deep learning. Semantic Web, 13(3), 527-570.
 5. Bose, P., Srinivasan, S., Sleeman IV, W. C., Palta, J., Kapoor, R., & Ghosh, P. (2021). A survey on recent named entity recognition and relationship extraction techniques on clinical texts. Applied Sciences, 11(18), 8319.
 6. Huang, M. S., Lai, P. T., Lin, P. Y., You, Y. T., Tsai, R. T. H., & Hsu, W. L. (2020). Biomedical named entity recognition and linking datasets: survey and our recent development. Briefings in Bioinformatics, 21(6), 2219-2238.
-7. Luo, Y. F., Sun, W., & Rumshisky, A. (2019). MCN: a comprehensive corpus for medical concept normalization. Journal of biomedical informatics, 92, 103132.
-8. Madkour, M., Benhaddou, D., & Tao, C. (2016). Temporal data representation, normalization, extraction, and reasoning: A review from clinical domain. Computer methods and programs in biomedicine, 128, 52-68.
+7. Madkour, M., Benhaddou, D., & Tao, C. (2016). Temporal data representation, normalization, extraction, and reasoning: A review from clinical domain. Computer methods and programs in biomedicine, 128, 52-68.
 
 ## Papers not being included in the survey but might be useful 
 1. Barreiros, L., Coutinho, I., Correia, G., & Martins, B. (2025, May). Explainable ICD Coding via Entity Linking. In Proceedings of the Second Workshop on Patient-Oriented Language Processing (CL4Health) (pp. 219-227). Workshop paper. 
