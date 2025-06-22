@@ -19,4 +19,4 @@
 
 7. Madkour, M., Benhaddou, D., & Tao, C. (2016). Temporal data representation, normalization, extraction, and reasoning: A review from clinical domain. Computer methods and programs in biomedicine, 128, 52-68.
 
-- Summary: 
+- Summary: This review surveyed the methods used in three important area: modeling and representing of time, medical NLP methods for extracting time, and methods of time reasoning and processing for the clinical domain. The review emphasis on the current existing gap between present methods and the semantic web technologies and catch up with the possible combinations.
