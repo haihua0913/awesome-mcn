@@ -3,7 +3,7 @@
 ## Papers being included in the survey 
 
 ### 2025
-1. Chen, H., Li, R., Cleveland, A., & Ding, J. (2025). Enhancing data quality in medical concept normalization through large language models. Journal of Biomedical Informatics, 165, 104812.
+1. Chen, H., Li, R., Cleveland, A., & Ding, J. (2025). Enhancing data quality in medical concept normalization through large language models. Journal of Biomedical Informatics, 165, 104812. [Link](https://www.sciencedirect.com/science/article/pii/S1532046425000413)
 2. Borchert, F., Llorca, I., Roller, R., Arnrich, B., & Schapranow, M. P. (2025). xMEN: a modular toolkit for cross-lingual medical entity normalization. JAMIA open, 8(1), ooae147.
 3. Zhang, S., He, L., Wang, D., Bao, H., Zheng, S., Liu, Y., ... & Zheng, N. (2025). ProSyno: context-free prompt learning for synonym discovery. Frontiers of Computer Science, 19(6), 1-9.
 4. Kulyabin, M., Sokolov, G., Galaida, A., Maier, A., & Arias-Vergara, T. (2025). SNOBERT: A Benchmark for clinical notes entity linking in the SNOMED CT clinical terminology. In International Conference on Pattern Recognition (pp. 154-163). Springer, Cham.
