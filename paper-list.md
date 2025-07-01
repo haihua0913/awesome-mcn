@@ -79,7 +79,7 @@
 25. Liu, S., Zhou, G., Xia, Y., Wu, H., & Li, Z. (2023). A data-centric way to improve entity linking in knowledge-based question answering. PeerJ Computer Science, 9, e1233. [Link](https://peerj.com/articles/cs-1233/)
 
 ### 2022
-1. Yuan, Z., Zhao, Z., Sun, H., Li, J., Wang, F., & Yu, S. (2022). CODER: Knowledge-infused cross-lingual medical term embedding for term normalization. Journal of biomedical informatics, 126, 103983.
+1. Yuan, Z., Zhao, Z., Sun, H., Li, J., Wang, F., & Yu, S. (2022). CODER: Knowledge-infused cross-lingual medical term embedding for term normalization. Journal of biomedical informatics, 126, 103983. [Link](https://www.sciencedirect.com/science/article/pii/S1532046421003129)
 2. Xu, D., & Miller, T. (2022). A simple neural vector space model for medical concept normalization using concept embeddings. Journal of biomedical informatics, 130, 104080.
 3. Liang, L., Hao, T., Zhan, C., Qiu, H., Wang, F. L., Yan, J., ... & Qu, Y. (2022). Fast medical concept normalization for biomedical literature based on stack and index optimized self-attention. Neural Computing and Applications, 34(19), 16311-16324.
 4. Alekseev, A., Miftahutdinov, Z., Tutubalina, E., Shelmanov, A., Ivanov, V., Kokh, V., ... & Nikolenko, S. (2022, June). Medical crossing: a cross-lingual evaluation of clinical entity linking. In Proceedings of the thirteenth language resources and evaluation conference (pp. 4212-4220).
