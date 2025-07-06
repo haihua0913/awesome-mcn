@@ -35,10 +35,17 @@
 | 31     | BERT + Heterogeneous Graph                                                   | BERGAMOT                  |[Link](https://aclanthology.org/2024.findings-naacl.288.pdf)   |
 | 32     | BERT + Graph Prompt                                                  | GraphPrompt                  |[Link](https://ojs.aaai.org/index.php/AAAI/article/view/26256)   |
 | 33     | GNN                                                   | KnowCAGE                  |[Link](https://arxiv.org/pdf/2301.10451)   |
-| 34     | GAT                                                   | KnowCAGE                  |[Link](https://ieeexplore.ieee.org/abstract/document/9533687?casa_token=w_YfFWUS8jUAAAAA:0QZrSQE4LpBn3iHoYVMFPCimiIaDAlvHh0gDaiyq-R1uFZaKy2q6huuKiH7Kw2agQR0LDY9U)   |
-| 35     | GNN                                                   | KnowCAGE                  |[Link](https://arxiv.org/pdf/2301.10451)   |
-| 36     | GNN                                                   | KnowCAGE                  |[Link](https://arxiv.org/pdf/2301.10451)   |
-| 37     | GNN                                                   | KnowCAGE                  |[Link](https://arxiv.org/pdf/2301.10451)   |
+| 34     | GAT                                                   | -                  |[Link](https://ieeexplore.ieee.org/abstract/document/9533687?casa_token=w_YfFWUS8jUAAAAA:0QZrSQE4LpBn3iHoYVMFPCimiIaDAlvHh0gDaiyq-R1uFZaKy2q6huuKiH7Kw2agQR0LDY9U)   |
+| 35     | LLMs (GPT-4o/Llama2-70B)                                                   | BioLinkerAI                  |[Link](https://link.springer.com/chapter/10.1007/978-981-96-0573-6_19)   |
+| 36     | LLMs (GPT-3.5)                                                   | BioLORD-2023                  |[Link](https://academic.oup.com/jamia/article/31/9/1844/7614965)   |
+| 37     | LLMs (GPT-3.5)                                                   | -                  |[Link](https://www.sciencedirect.com/science/article/pii/S1532046425000413?casa_token=kjftp-fJF-YAAAAA:qq6WHcV3JwVQVgInGpcnb1zriaxj78WSLuHmW5sYPMfIVALiQJB9CzjzZ4zxZxlxxdsVXcOvWA)   |
+| 38     | LLMs (GPT-2)                                                   | BioGPT                  |[Link](https://academic.oup.com/bib/article/23/6/bbac409/6713511)   | 
+| 39     | LLMs (GPT-3.5/Llama2-7B)                                                   | -                  |[Link](https://academic.oup.com/jamia/article-abstract/31/9/2076/7686878)   |
+| 40     | LLMs (GPT-4)                                                 | NSSC                  |[Link](https://link.springer.com/article/10.1007/s11517-024-03227-41)   |
+
+
+
+
 
 
 
