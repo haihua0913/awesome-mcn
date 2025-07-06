@@ -1,6 +1,6 @@
 # A representative list of existing toolkit for medical concept normalization (MCN)
 
-| Index | Toolkit Name | Intro | URL |
+| Index | Toolkit Name | Overview | URL |
 |-------|-------------|-------|-----|
 | 1 | HunFlair2 | Comprehensive toolkit for biomedical NER and normalization, integrated with flair; supports broad entity types, synonym handling, and species normalization. | [Link](https://github.com/flairNLP/flair) |
 | 2 | Preon | Specialized for precision oncology, normalizes drug names and cancer types with multi-step matching; links to ChEMBL and Disease Ontology. | [Link](https://github.com/ermshaua/preon/)  |
