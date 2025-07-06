@@ -1,6 +1,6 @@
-# A representative list of existing datasets for medical concept normalization (MCN)
+# A representative list of existing models for medical concept normalization (MCN)
 
-## Overview of the datasets
+## Overview of the Models
 
 | Index | Model Architecture               | Model Name         | URL                                         |
 |-------|----------------------------------|--------|-------|
@@ -12,7 +12,7 @@
 | 6      | CNN (ResNET)                                                   | -                  |[Link](https://ieeexplore.ieee.org/abstract/document/10472539?casa_token=R2auDXRXuxMAAAAA:SGvSG33GA0ynwovgkTq2Mwwq2t3Pby0cI31e7TpvfOD0EXsFWXNLHY3jhrKIxysFSL_-AtAD)   |
 | 7      | RNN (Bi-LSTM)                                                  | -                  |[Link](https://www.sciencedirect.com/science/article/pii/S1532046418301126)   |
 | 8      | RNN (Bi-LSTM)                                                  | REEL                  |[Link](https://link.springer.com/article/10.1186/s13321-020-00461-4)   |
-| 9      | RNN (Bi-GRUs)                                                  | -                  |[Link]([https://link.springer.com/chapter/10.1007/978-981-15-5679-1_54](https://academic.oup.com/jamia/article/25/10/1274/5113021))   |
+| 9      | RNN (Bi-GRUs)                                                  | -                  |[Link](https://academic.oup.com/jamia/article/25/10/1274/5113021)   |
 | 10     | RNN (Bi-LSTM + CRF)                                            | -                  |[Link](https://link.springer.com/chapter/10.1007/978-3-030-45442-5_29)   |
 | 11     | RNN                                                            | LATTE              |[Link](https://ojs.aaai.org/index.php/AAAI/article/view/6526)   |
 | 12     | RNN (BiLSTM + ELMo)                                            | -                  |[Link](https://www.sciencedirect.com/science/article/pii/S1877050920311248)   |
